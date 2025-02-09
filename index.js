@@ -1,4 +1,4 @@
-import runApp from "./src/who-likes-it.js";
+import runApp from "./src/your-order-please.js";
 
 console.log("Hello GIT observer! \n");
 runApp();

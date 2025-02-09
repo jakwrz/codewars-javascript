@@ -21,8 +21,6 @@ function test() {
 
 
 function runApp() {
-    // let names = ["Peter"];
-    // console.log(likes(names));
     test();
 }
 

@@ -1,4 +1,4 @@
-import runApp from "./src/next-perfect-square.js";
+import runApp from "./src/get-most-frequent.js";
 
 console.log("Hello GIT observer! \n");
 runApp();

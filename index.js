@@ -1,4 +1,4 @@
-import runApp from "./src/get-most-frequent.js";
+import runApp from "./src/string-increment.js";
 
 console.log("Hello GIT observer! \n");
 runApp();

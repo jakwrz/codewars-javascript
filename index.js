@@ -1,4 +1,4 @@
-import runApp from "./src/string-increment.js";
+import runApp from "./src/strip-comments.js";
 
 console.log("Hello GIT observer! \n");
 runApp();

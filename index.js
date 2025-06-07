@@ -1,4 +1,4 @@
-import runApp from "./src/piramid-slide-euler.js";
+import runApp from "./src/remove-number.js";
 
 console.log("Hello GIT observer! \n");
 runApp();

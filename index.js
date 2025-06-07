@@ -1,4 +1,4 @@
-import runApp from "./src/strip-comments.js";
+import runApp from "./src/piramid-slide-euler.js";
 
 console.log("Hello GIT observer! \n");
 runApp();

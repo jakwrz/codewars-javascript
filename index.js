@@ -1,4 +1,4 @@
-import runApp from "./src/recover-secret.js";
+import runApp from "./src/roman-num-converter.js";
 
 console.log("Hello GIT observer! \n");
 runApp();

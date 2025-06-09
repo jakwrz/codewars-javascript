@@ -1,4 +1,4 @@
-import runApp from "./src/remove-number.js";
+import runApp from "./src/recover-secret.js";
 
 console.log("Hello GIT observer! \n");
 runApp();

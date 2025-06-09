@@ -21,4 +21,4 @@ function test() {
 
 function runApp() {
     test();
-}
+};

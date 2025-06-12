@@ -1,4 +1,4 @@
-import runApp from "./src/best-path.js";
+import runApp from "./src/get-pins.js";
 
 console.log("Hello GIT observer! \n");
 runApp();

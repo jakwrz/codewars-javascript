@@ -1,4 +1,4 @@
-import runApp from "./src/roman-num-converter.js";
+import runApp from "./src/best-path.js";
 
 console.log("Hello GIT observer! \n");
 runApp();

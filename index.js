@@ -1,4 +1,4 @@
-import runApp from "./src/get-pins.js";
+import runApp from "./src/backtracking-recursion/sudoku-solver.js";
 
 console.log("Hello GIT observer! \n");
 runApp();

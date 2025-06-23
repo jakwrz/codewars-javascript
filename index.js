@@ -1,4 +1,4 @@
-import runApp from "./src/recursion/sort-binary-tree.js";
+import runApp from "./src/snail.js";
 
 console.log("Hello GIT observer! \n");
 runApp();
